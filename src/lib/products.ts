@@ -71,7 +71,7 @@ export const products: Product[] = [
   {
     "slug": "ghk-cu",
     "name": "GHK-Cu 100mg",
-    "image": "/products/ghk-cu-100mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "GHK-Cu 100mg research vial",
     "imageTitle": "GHK-Cu 100mg — research use only",
     "purity": "99.84%",
@@ -411,7 +411,7 @@ export const products: Product[] = [
   {
     "slug": "mots-c",
     "name": "MOTS-c 10mg",
-    "image": "/products/mots-c-10mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "MOTS-c 10mg research vial",
     "imageTitle": "MOTS-c 10mg — research use only",
     "purity": "99.79%",
@@ -428,7 +428,7 @@ export const products: Product[] = [
   {
     "slug": "nad-plus",
     "name": "NAD+ 500mg",
-    "image": "/products/nad-plus-500mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "NAD+ 500mg research vial",
     "imageTitle": "NAD+ 500mg — research use only",
     "purity": "99.78%",
@@ -445,7 +445,7 @@ export const products: Product[] = [
   {
     "slug": "klow",
     "name": "Klow 80mg",
-    "image": "/products/klow-80mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "Klow 80mg research vial",
     "imageTitle": "Klow 80mg — research use only",
     "purity": "99.69%",
@@ -463,7 +463,7 @@ export const products: Product[] = [
   {
     "slug": "glp3-rt",
     "name": "RB-3 RT 10mg",
-    "image": "/products/glp3-rt-10mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "RB-3 RT 10mg research vial",
     "imageTitle": "RB-3 RT 10mg — research use only",
     "purity": "99.71%",
@@ -480,7 +480,7 @@ export const products: Product[] = [
   {
     "slug": "glutathione",
     "name": "Glutathione 1500mg",
-    "image": "/products/glutathione-1500mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "Glutathione 1500mg research vial",
     "imageTitle": "Glutathione 1500mg — research use only",
     "purity": "99.81%",
@@ -497,7 +497,7 @@ export const products: Product[] = [
   {
     "slug": "igf-1-lr3",
     "name": "IGF-1 LR3 10mg",
-    "image": "/products/igf-1-lr3-1mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "IGF-1 LR3 10mg research vial",
     "imageTitle": "IGF-1 LR3 10mg — research use only",
     "purity": "99.74%",
@@ -514,7 +514,7 @@ export const products: Product[] = [
   {
     "slug": "tesamorelin",
     "name": "Tesamorelin 10mg",
-    "image": "/products/tesamorelin-10mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "Tesamorelin 10mg research vial",
     "imageTitle": "Tesamorelin 10mg — research use only",
     "purity": "99.88%",
@@ -531,7 +531,7 @@ export const products: Product[] = [
   {
     "slug": "glp2-tz",
     "name": "RB-2 TZ 10mg",
-    "image": "/products/glp2-tz-10mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "RB-2 TZ 10mg research vial",
     "imageTitle": "RB-2 TZ 10mg — research use only",
     "purity": "99.62%",
@@ -548,7 +548,7 @@ export const products: Product[] = [
   {
     "slug": "cjc-1295-ipamorelin",
     "name": "CJC-1295 (No DAC) + Ipamorelin 10mg",
-    "image": "/products/cjc-1295-no-dac-ipamorelin-10mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "CJC-1295 (No DAC) + Ipamorelin 10mg research vial",
     "imageTitle": "CJC-1295 (No DAC) + Ipamorelin 10mg — research use only",
     "purity": "99.83%",
@@ -566,7 +566,7 @@ export const products: Product[] = [
   {
     "slug": "selank",
     "name": "Selank 10mg",
-    "image": "/products/selank-10mg.webp",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "Selank 10mg research vial",
     "imageTitle": "Selank 10mg — research use only",
     "purity": "99.84%",
@@ -583,7 +583,7 @@ export const products: Product[] = [
   {
     "slug": "cagrilintide",
     "name": "Cagrilintide 5mg",
-    "image": "/products/cagrilintide-5mg.png",
+    "image": "/products/evlv-mots-c-vial.webp",
     "imageAlt": "Cagrilintide 5mg research vial",
     "imageTitle": "Cagrilintide 5mg — research use only",
     "purity": "99.69%",
