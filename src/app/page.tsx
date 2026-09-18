@@ -107,30 +107,32 @@ export default function HomePage() {
         <div className="relative mx-auto aspect-[3/2] w-full max-w-md md:max-w-[480px]">
           <div className="absolute inset-[8%] rounded-full bg-gold-500/20 blur-3xl"></div>
           <div
-            className="absolute left-[5%] top-[12%] z-0 w-[42%] md:-left-[10%] md:top-[10%] md:w-[66%] lg:-left-[24%]"
+            className="absolute left-[6%] top-[20%] z-0 w-[32%] md:-left-[6%] md:top-[18%] md:w-[48%] lg:-left-[18%]"
           >
             <img
-              alt="Research vial"
+              alt=""
+              aria-hidden="true"
               className="float-b w-full drop-shadow-[0_24px_30px_rgba(0,0,0,0.45)]"
-              src="/products/vial-refined-ghkcu-cut.webp"
+              src="/products/vial-evlv-h2o-cut.webp"
              />
           </div>
           <div
-            className="absolute right-[5%] top-[12%] z-0 w-[42%] md:-right-[10%] md:top-[10%] md:w-[66%] lg:-right-[24%]"
+            className="absolute right-[4%] top-[14%] z-0 w-[45%] md:-right-[10%] md:top-[12%] md:w-[68%] lg:-right-[24%]"
           >
             <img
-              alt="Research vial"
+              alt=""
+              aria-hidden="true"
               className="float-c w-full drop-shadow-[0_24px_30px_rgba(0,0,0,0.45)]"
-              src="/products/vial-bpc157-cut.webp"
+              src="/products/vial-evlv-h2o-cut.webp"
              />
           </div>
           <div
             className="absolute left-1/2 top-[45%] z-10 w-[71%] -translate-x-1/2 -translate-y-1/2 md:w-full"
           >
             <img
-              alt="Research vial"
+              alt="EVLV Refined H2O research vial"
               className="float-a w-full drop-shadow-[0_30px_40px_rgba(0,0,0,0.55)]"
-              src="/products/vial-refined-h2o-cut.webp"
+              src="/products/vial-evlv-h2o-cut.webp"
              />
           </div>
           <span
